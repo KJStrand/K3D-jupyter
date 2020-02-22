@@ -59,9 +59,11 @@
     "style-loader": "^0.16.1",
     "time-grunt": "1.2.1",
     "url-loader": "^0.5.8",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
     "webpack-combine-loaders": "^2.0.4",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-dev-server": "^3.10.1",
     "webpack-node-externals": "^1.7.2",
     "webpack-visualizer-plugin": "^0.1.11",
     "worker-loader": "^1.1.0"
@@ -81,6 +83,6 @@
     "requirejs": "^2.3.6",
     "screenfull": "^4.2.1",
     "stats.js": "^0.17.0",
-    "three": "^0.102.1"
+    "three": "^0.112.1"
   }
 }

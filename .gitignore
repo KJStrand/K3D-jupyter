@@ -19,3 +19,6 @@ examples/*.vtk
 examples/*.vtp
 docs/source/_static/k3d.js
 docs/source/_static/standalone.js
+*.7z
+examples/marketplacefeldkirch_station7_intensity_rgb.txt
+examples/VR_Demos/data_ignore/*.*
